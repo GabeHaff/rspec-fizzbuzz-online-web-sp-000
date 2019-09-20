@@ -5,7 +5,7 @@
     return "Fizz"
    elsif integer % 5 ==0 
     return "Buzz"
-  elsif  integer %3 ==0 or integer %5==0 
+  elsif  integer |%3 ==0 or integer %5==0| 
   return "FizzBuzz"
    
  end
