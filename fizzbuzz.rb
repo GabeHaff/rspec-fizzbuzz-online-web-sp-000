@@ -1,6 +1,5 @@
 # Don't forget! This file needs to be 'required' in its spec file
 # See README.md for instructions on how to do this
-def fizzbuzz(integer)
  def fizzbuzz(integer)
   if integer % 3 == 0 
     puts "Fizz"
@@ -10,4 +9,4 @@ def fizzbuzz(integer)
     puts "FizzBuzz"
   else puts "nil"
 end
-end
+
