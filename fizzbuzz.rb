@@ -5,8 +5,7 @@
     return "Fizz"
    elsif integer % 5 ==0 
    return "Buzz"
-   elsif integer %3&&5 ==0 
-   return "FizzBuzz"
+   
  else return nil 
  end
  end
